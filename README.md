@@ -15,8 +15,8 @@ region = "us-central1"
 Run following commands to run & test Terraform scripts :
 
 - terraform init          (To initialize the project)
-- terraform plan        (To check the changes to be made by Terraform on azure )
-- terraform apply       (To apply the changes to azure)
+- terraform plan        (To check the changes to be made by Terraform)
+- terraform apply       (To apply the changes)
 
 
 To verify Jenkins , open the public ip in browser
